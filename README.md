@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Brayden 👋
 
-<!--
-**Lecentica/Lecentica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science freshman at UT San Antonio on the Cyber Operations Track 
+(NSA CAE-CO designated). Interested in offensive security, malware analysis, 
+and federal cybersecurity careers.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Learning Linux
+- Building a personal cybersecurity home lab
+- Preparing for future CompTIA CySA+ / PenTest+ certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- CompTIA Security+ (SY0-701)
+- Certiport IT Specialist – Java
+
+## Languages
+Java · C · Python
+
+## Interests
+Cyber operations · Malware analysis · Network security · CTF competitions
+
+## Contact
+brayden.kim@proton.me
+https://www.linkedin.com/in/brayden-kim/
