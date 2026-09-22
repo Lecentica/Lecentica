@@ -7,7 +7,6 @@ and federal cybersecurity careers.
 ## What I'm working on
 - Learning Linux
 - Building a personal cybersecurity home lab
-- Preparing for future CompTIA CySA+ / PenTest+ certifications
 
 ## Certifications
 - CompTIA Security+ (SY0-701)
